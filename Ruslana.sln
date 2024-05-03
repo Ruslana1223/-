@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ruslana.Client", "Ruslana.Client\Ruslana.Client.csproj", "{724EEC1F-BF41-49DA-977B-6E4DB21379E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ruslana.Server", "Ruslana.Server\Ruslana.Server.csproj", "{A15103BD-1F09-420F-A4C2-9789422CE314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724EEC1F-BF41-49DA-977B-6E4DB21379E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724EEC1F-BF41-49DA-977B-6E4DB21379E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724EEC1F-BF41-49DA-977B-6E4DB21379E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724EEC1F-BF41-49DA-977B-6E4DB21379E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15103BD-1F09-420F-A4C2-9789422CE314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15103BD-1F09-420F-A4C2-9789422CE314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15103BD-1F09-420F-A4C2-9789422CE314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15103BD-1F09-420F-A4C2-9789422CE314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD5ADBE-EAD3-4D46-A322-25134B9A686C}
+	EndGlobalSection
+EndGlobal
